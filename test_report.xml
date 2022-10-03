@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="4" skipped="0" name=".Users.user.Documents.GitHub.SSPR_test.test.widget" timestamp="2022-10-03T16:13:11">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname=".Users.user.Documents.GitHub.SSPR_test.test.widget" name="Counter value should start at 0" time="0.025"/>
+    <testcase classname=".Users.user.Documents.GitHub.SSPR_test.test.widget" name="Counter value should be incremented" time="0.002"/>
+    <testcase classname=".Users.user.Documents.GitHub.SSPR_test.test.widget" name="Counter value should be decremented" time="0.002"/>
+    <testcase classname=".Users.user.Documents.GitHub.SSPR_test.test.widget" name="Counter increments smoke test" time="0.862"/>
+  </testsuite>
+</testsuites>
